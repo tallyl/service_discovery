@@ -1,10 +1,16 @@
 # Welcome to EC2 Assignments!
 
 
-Complete the following tasks:
+## Complete the following tasks:
+
 📽️ Watch the Introduction to consul video
 
-📚. Complete all of the topics in the "Getting Started" section of consul learn (9 topics)
+[![Introduction to consul](https://img.youtube.com/vi/mxeMdl0KvBI/0.jpg)](https://www.youtube.com/watch?v=mxeMdl0KvBI)
+
+📚. Complete all of the topics in the 
+[Getting Started](https://learn.hashicorp.com/collections/consul/getting-started_section)
+of consul learn (9 topics)
+
 
 📽️ Watch the Consul Infrastructure Recipes video
 
@@ -26,7 +32,7 @@ This assigment will help you get some hands-on expereince in AWS EC2 instance au
 ## The Problem
 Your grandpa would like to start a new private website for whiskey brands review. He is a whiskey expert, but he knows nothing about websites, cloud infrastructure and automations.
 
-![](https://media.giphy.com/media/SzFryqeA4vpKaOaiR0/giphy.gif?cid=ecf05e47q8fditd90yeq2rnaqp8al2370zhc34ex99p47a80&rid=giphy.gif&ct=g)
+
 ## Your mission
 Create the proper cloud infrastucture to host your grandpa's whiskey wedsite. 
 
@@ -36,4 +42,4 @@ Create the proper cloud infrastucture to host your grandpa's whiskey wedsite.
 
 
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/mxeMdl0KvBI/0.jpg)](https://www.youtube.com/watch?v=mxeMdl0KvBI)
+
