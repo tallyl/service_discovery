@@ -8,5 +8,5 @@ here will be your focal point for the service discovery sessions,
 
 ### Available Assignments
 - [session 1 pre-sesssion assignment](assignments/setup)
-- [vpc assignments](assignments/vpc)
-- [tfc assignments](assignments/tfc)
+- [session 2 pre-sesssion assignment](assignments/vpc)
+- [session 3 pre-sesssion assignment](assignments/tfc)
