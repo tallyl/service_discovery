@@ -1,10 +1,12 @@
 ## AWS Basics
 
-Welcome to AWS Basics at OpsSchool. Here you will find everything you need to learn and practice AWS and Terraform during our course.
+Welcome to service discovery session at OpsSchool. 
+
+here will be your focal point for the service discovery sessions,
 
 ![](https://blog.dbsi-inc.com/hs-fs/hubfs/Bulletin%20Board.jpg?width=640&name=Bulletin%20Board.jpg)
 
 ### Available Assignments
-- [setup](assignments/setup)
+- [session 1 pre-sesssion assignment](assignments/setup)
 - [vpc assignments](assignments/vpc)
 - [tfc assignments](assignments/tfc)
