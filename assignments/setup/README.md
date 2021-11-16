@@ -21,24 +21,16 @@ in this assigment you will get femilirized with consul and service discovery, yo
 
 [![Introduction to consul](https://img.youtube.com/vi/XZZDVUCCilM/0.jpg)](https://www.youtube.com/watch?v=XZZDVUCCilM) 
 
+### 3. provide screenshots from the assignment:
 🦉 Deliverables:
 1. Upload a screen capture of your consul ui, make the datacenter name DC-${YOUR_NAME} look [here](https://www.consul.io/docs/agent/options) for agent configuration options)
 2. Upload a screen capture of your consul member (cli command) the agents should be with unique names (with your own name) 
 
-Video: Whiteboard Introduction to HashiCorp Consul
-https://www.hashicorp.com/resources/introduction-consul
 
 
+### 4. please complete the [pre-session setup](../../session1/)  and come prepared to the session 
 
-
-## The Problem
-Your grandpa would like to start a new private website for whiskey brands review. He is a whiskey expert, but he knows nothing about websites, cloud infrastructure and automations.
-
-
-## Your mission
-Create the proper cloud infrastucture to host your grandpa's whiskey wedsite. 
-
-[Next: **Prerequisites** ➡️](prerequisites.md)
+[pre-session setup](../..//session1/) 
 
 
 
