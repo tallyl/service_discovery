@@ -1,33 +1,35 @@
-# Welcome to EC2 Assignments!
+# service discovery pre-session 1 Assignments!
+
+in this assigment you will get femilirized with consul and service discovery, you will create your first consul service and register services to it.
+
 
 
 ## Complete the following tasks:
 
-📽️ Watch the Introduction to consul video
+### 1. Complete the following topics in the hashicorp learn consul tutorials
 
-[![Introduction to consul](https://img.youtube.com/vi/mxeMdl0KvBI/0.jpg)](https://www.youtube.com/watch?v=mxeMdl0KvBI)
+- [introduction to consul](https://learn.hashicorp.com/tutorials/consul/get-started?in=consul/getting-started)
+- [install consul](https://learn.hashicorp.com/tutorials/consul/get-started-install?in=consul/getting-started)
+- [run the consul agent](https://learn.hashicorp.com/tutorials/consul/get-started-agent?in=consul/getting-started)
+- [register a service in consul](https://learn.hashicorp.com/tutorials/consul/get-started-service-discovery?in=consul/getting-started)
+- [Store Data in Consul KV](https://learn.hashicorp.com/tutorials/consul/get-started-key-value-store?in=consul/getting-started)
+- [Explore the Consul UI](https://learn.hashicorp.com/tutorials/consul/get-started-explore-the-ui?in=consul/getting-started)
+- wach the video on [Create a Local Consul Datacenter](https://learn.hashicorp.com/tutorials/consul/get-started-create-datacenter)
 
-📚. Complete all of the topics in the 
-[Getting Started](https://learn.hashicorp.com/collections/consul/getting-started_section)
-of consul learn (9 topics)
 
+### 2. Watch the Consul Infrastructure Recipes video
 
-📽️ Watch the Consul Infrastructure Recipes video
-
+[![Introduction to consul](https://img.youtube.com/vi/XZZDVUCCilM/0.jpg)](https://www.youtube.com/watch?v=XZZDVUCCilM) 
 
 🦉 Deliverables:
-1. Upload a screen capture of your consul ui (try including your own name in the datacenter name)
-2. Upload a screen capture of your consul member (cli command) the agents should be with unique names (with your own name)
+1. Upload a screen capture of your consul ui, make the datacenter name DC-${YOUR_NAME} look [here](https://www.consul.io/docs/agent/options) for agent configuration options)
+2. Upload a screen capture of your consul member (cli command) the agents should be with unique names (with your own name) 
 
 Video: Whiteboard Introduction to HashiCorp Consul
 https://www.hashicorp.com/resources/introduction-consul
 
 
 
-
-## About The Assignment
-
-This assigment will help you get some hands-on expereince in AWS EC2 instance automation with terraform.
 
 ## The Problem
 Your grandpa would like to start a new private website for whiskey brands review. He is a whiskey expert, but he knows nothing about websites, cloud infrastructure and automations.
