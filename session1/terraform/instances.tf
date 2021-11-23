@@ -33,7 +33,7 @@ resource "aws_instance" "consul_agent" {
 
   iam_instance_profile   = aws_iam_instance_profile.consul-join.name
   vpc_security_group_ids = [aws_security_group.opsschool_consul.id]
-  user_data_base64 = "VkdobElFVmhjblJvSUhOaGVYTXNJQ0pJWld4c2J5SUt8YmFzZTY0IC1EICA+IC9ob21lL3VidW50dS90aGUudHh0Cg=="
+  user_data_base64 = "ZWNobyBWR2hsSUVWaGNuUm9JSE5oZVhNc0lDSklaV3hzYnlJS3xiYXNlNjQgLUQgID4gL2hvbWUvdWJ1bnR1L3RoZS50eHQK"
   provisioner "file" {
     source      = "scripts/consul-agent.sh"
     destination = "/home/ubuntu/consul-agent.sh"
