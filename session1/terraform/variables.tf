@@ -44,3 +44,13 @@ variable "ami" {
     "us-east-2" = "ami-0dd9f0e7df0f0a138"
   }
 }
+
+variable "vpc_cidr_block" {
+  default = "10.0.0.0/16"
+}
+
+variable "public_subnet" {
+  default = "10.0.4.0/24"
+}
+
+

@@ -5,6 +5,7 @@ provider "aws" {
 resource "aws_security_group" "opsschool_consul" {
   name        = "opsschool-consul"
   description = "Allow ssh & consul inbound traffic"
+  vpc_id = aws_vpc.consul_vpc.id
 
   ingress {
     from_port   = 0
