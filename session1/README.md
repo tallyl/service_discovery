@@ -29,7 +29,7 @@ please loging to the servers using this command:
 ssh -i ./opsschool_consul.pem ubuntu@${EC2_INSTANCE_NAME_FROM_THE_TERRAFORM_OUTPUT}
 ```
 
-please upload the answer from this command on each of the server
+please upload the ips of the servers
 ```bash 
 cat /home/ubuntu/my_file.txt
 ```
