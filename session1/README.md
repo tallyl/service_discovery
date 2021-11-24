@@ -34,3 +34,5 @@ please upload the ips of the servers as showned after
 terraform apply 
 ```
 
+after upi verify the terraform apply works fine, you can download the environment in order to save money!!!!! (please save your money)
+! make sure you start the environment couple of hours before the session starts as we will use these servers in the session
