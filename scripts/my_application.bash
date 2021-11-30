@@ -5,4 +5,4 @@ then
     exit
 fi
 
-nc -l $1
+nc  -dkl $1
