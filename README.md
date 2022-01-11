@@ -1,4 +1,4 @@
-## AWS Basics
+## Service Discovery using consul
 
 Welcome to service discovery session at OpsSchool. 
 
