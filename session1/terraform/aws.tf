@@ -19,7 +19,7 @@ resource "aws_security_group" "opsschool_consul" {
     from_port   = 22
     to_port     = 22
     protocol    = "tcp"
-    cidr_blocks = ["0.0.0.0/0"]
+    cidr_blocks = ["84.229.153.195/32"]
     description = "Allow ssh from the world"
   }
 
@@ -27,7 +27,7 @@ resource "aws_security_group" "opsschool_consul" {
     from_port   = 8500
     to_port     = 8500
     protocol    = "tcp"
-    cidr_blocks = ["0.0.0.0/0"]
+    cidr_blocks = ["84.229.153.195/32"]
     description = "Allow consul UI access from the world"
   }
 
@@ -35,7 +35,7 @@ resource "aws_security_group" "opsschool_consul" {
     from_port       = 0
     to_port         = 0
     protocol        = "-1"
-    cidr_blocks     = ["0.0.0.0/0"]
+    cidr_blocks     = ["84.229.153.195/32"]
     description     = "Allow all outside security group"
   }
 }
